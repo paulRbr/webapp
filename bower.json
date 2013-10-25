@@ -1,0 +1,12 @@
+{
+  "name": "simple-webapp",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.10.0",
+    "underscore": "~1.5.1",
+    "requirejs": "~2.1.8",
+    "handlebars": "~1.0.0",
+    "backbone": "~1.0.0"
+  }
+}

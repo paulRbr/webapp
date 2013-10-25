@@ -11,9 +11,7 @@ end
 
 assets.register_engine '.haml', Tilt::HamlTemplate
 
-assets.append_path('scripts')
-assets.append_path('layouts')
-assets.append_path('styles')
+assets.append_path('app')
 
 get '/*' do
   new_env = env.clone
