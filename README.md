@@ -1,4 +1,4 @@
-## WebApp - Build your static webapp with ease
+## WebApp - Build your frontend webapp with ease
 =====
 
 This is a scaffhold to start coding webapps with ease. Just fork and code!

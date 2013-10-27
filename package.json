@@ -1,6 +1,6 @@
 {
   "name": "simple-webapp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Build your static webapp with ease",
   "keywords": [
     "webapp",
@@ -19,9 +19,6 @@
     "type": "git",
     "url": "git://github.com/popox/webapp.git"
   },
-  "scripts": {
-    "test": "grunt test"
-  },
   "dependencies": {
     "requirejs": "~2.1.5"
   },
@@ -30,8 +27,6 @@
     "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.6.2",
     "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-copy": "~0.4.0",
-    "grunt-contrib-nodeunit": "~0.2.0",
     "bower": "~1.2.7",
     "durable-json-lint": "0.0.1",
     "grunt-bower-requirejs": "git://github.com/popox/grunt-bower-requirejs.git#v0.7.2"
