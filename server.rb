@@ -1,5 +1,3 @@
-#!/usr/bin/ruby
-
 require 'bundler/setup'
 require 'sprockets-vendor_gems/extend_all'
 require 'uglifier'
@@ -14,6 +12,10 @@ assets.register_engine '.haml', Tilt::HamlTemplate
 assets.append_path('.')
 assets.append_path('app')
 assets.append_path('app/layouts')
+
+get '/' do
+  redirect to '/index.html'
+end
 
 get '/*' do
   new_env = env.clone
