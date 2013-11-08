@@ -34,7 +34,7 @@ All your frontend webapp needs to be contained in the ```app``` directory as fol
 
 ### Getting started
 
-You can start coding your application using the ```app.js.coffee``` script which is the application main class.
+You can start coding your application using the ```app.coffee``` script which is the application main class.
 
 This application code will be loaded directly in the provided ```index.html.haml``` via requireJS.
 
