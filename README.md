@@ -1,4 +1,6 @@
-# WebApp - Build your frontend webapp with ease
+[![Dependency Status](https://gemnasium.com/popox/webapp.png)](https://gemnasium.com/popox/webapp)
+
+WebApp - Build your frontend webapp with ease
 =====
 
 This is a scaffhold to start coding webapps with ease. Just fork and code!
