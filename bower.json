@@ -3,5 +3,7 @@
   "name": "simple-webapp",
   "version": "0.1.2",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "requirejs": "~2.1.8"
+  }
 }
