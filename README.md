@@ -1,4 +1,4 @@
-[![Dependency Status](https://gemnasium.com/popox/webapp.png)](https://gemnasium.com/popox/webapp)
+# DEPRECATED in favor of [generator-webapp](https://github.com/yeoman/generator-webapp)
 
 WebApp - Build your frontend webapp with ease
 =====
